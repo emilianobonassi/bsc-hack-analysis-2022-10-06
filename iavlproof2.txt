@@ -1,0 +1,34 @@
+RangeProof{
+  LeftPath: PathToLeaf{
+    0:proofInnerNode{
+      Height:  1
+      Size:    3
+      Version: 110217392
+      Left:    0C10F902D266C238A4CA9E26FA9BC36483CD3EBEE4E263012F5E7F40C22EE4D2
+      Right:   
+    }
+    1:proofInnerNode{
+      Height:  -1
+      Size:    2
+      Version: 110217392
+      Left:    E4FD47BFFD1C06E67EDAD92B2BF9CA63631978676288A2AA99F95C459436EF63
+      Right:   0EA04A867B36107E32A07707689376CB2048227B2C6393CDDB473AB6D2C5E731
+    }
+  }
+  InnerNodes:
+    empty-PathToLeaf
+  Leaves:
+    proofLeafNode{
+      Key:       0000010038020000000000000002
+      ValueHash: 11056C6919F02D966991C10721684A8D1542E44003F9FFB47032C18995D4AC7F
+      Version:   110217392
+    }
+    proofLeafNode{
+      Key:       00000100380200000000010DD983
+      ValueHash: 2C3A561458F8527B002B5EC3CAB2D308662798D6245D4588A4E6A80EBDFE30AC
+      Version:   1
+    }
+  (rootVerified): false
+  (rootHash): E09159530585455058CF1785F411EA44230F39334E6E0F6A3C54DBF069DF2B62
+  (treeEnd): true
+}
